@@ -1,0 +1,31 @@
+@charset "utf-8";
+@font-face
+{
+font-family: DIN;
+src: url("fontassets/DIN.eot");
+}
+@font-face
+{
+font-family: DIN-Bold;
+src: url("fontassets/DIN-Bold.eot");
+}
+@font-face
+{
+font-family: DIN-Italic;
+src: url("fontassets/DIN-Italic.eot");
+}
+@font-face
+{
+font-family: DIN-Bold-Italic;
+src: url("fontassets/DIN-Bold-Italic.eot");
+}
+@font-face
+{
+font-family: DIN-Black;
+src: url("fontassets/DIN-Black.eot");
+}
+@font-face
+{
+font-family: DIN-Light;
+src: url("fontassets/DIN-Light.eot");
+}

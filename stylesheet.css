@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+@font-face
+{
+font-family: DIN;
+src: url("fontassets/DIN.otf") format("opentype");
+}
+@font-face
+{
+font-family: DIN-Bold;
+src: url("fontassets/DIN-Bold.otf") format("opentype");
+}
+@font-face
+{
+font-family: DIN-Italic;
+src: url("fontassets/DIN-Italic.otf") format("opentype");
+}
+@font-face
+{
+font-family: DIN-Bold-Italic;
+src: url("fontassets/DIN-Bold-Italic.otf") format("opentype");
+}
+@font-face
+{
+font-family: DIN-Black;
+src: url("fontassets/DIN-Black.otf") format("opentype");
+}
+@font-face
+{
+font-family: DIN-Light;
+src: url("fontassets/DIN-Light.otf") format("opentype");
+}
+
+body {
+	background-color:#000000; background: linear-gradient(315deg, #000000, #FFAA00); color:#FFAA00; text-align:center; font-family:DIN, sans-serif; margin:0px; padding:0px;
+}
+
+h1 {
+	text-align:center;
+}
+
+.content {
+	padding:25%;
+}
